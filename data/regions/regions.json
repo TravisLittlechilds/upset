@@ -1,0 +1,13 @@
+{
+	"file": "./data/regions/regions.csv",
+	"name": "Regions",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Region Name" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 228 }
+	]
+}
